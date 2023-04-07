@@ -38,6 +38,7 @@
  - Управление конфигом через pytest
  - Интеграция с Allure report
  - Интеграция с Jenkins
+ - Интеграция с Allure testops
 
 
 
